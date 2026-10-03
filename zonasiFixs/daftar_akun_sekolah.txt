@@ -1,0 +1,23 @@
+DAFTAR AKUN ADMIN SEKOLAH (UPDATED 2025-12-29 08:19)
+Format Username: nama sekolah (kecil, tanpa spasi)
+Format Password: admin[angka]
+
+Nama Sekolah                             | Username             | Password
+--------------------------------------------------------------------------------
+SMAN 1 Padang                            | sman1padang          | admin1
+SMAN 10 Padang                           | sman10padang         | admin10
+SMAN 11 Padang                           | sman11padang         | admin11
+SMAN 12 Padang                           | sman12padang         | admin12
+SMAN 13 Padang                           | sman13padang         | admin13
+SMAN 14 Padang                           | sman14padang         | admin14
+SMAN 15 Padang                           | sman15padang         | admin15
+SMAN 16 Padang                           | sman16padang         | admin16
+SMAN 2 Padang                            | sman2padang          | admin2
+SMAN 3 Padang                            | sman3padang          | admin3
+SMAN 4 Padang                            | sman4padang          | admin4
+SMAN 5 Padang                            | sman5padang          | admin5
+SMAN 6 Padang                            | sman6padang          | admin6
+SMAN 7 Padang                            | sman7padang          | admin7
+SMAN 8 Padang                            | sman8padang          | admin8
+SMAN 9 Padang                            | sman9padang          | admin9
+SMAN 99 Padang                           | sman99padang         | admin99

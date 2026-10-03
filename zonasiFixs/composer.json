@@ -1,0 +1,17 @@
+{
+    "name": "ppdb/sma-padang",
+    "description": "Sistem Penerimaan Peserta Didik Baru SMA Negeri Kota Padang",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "scripts": {
+        "start": "php -S localhost:8000 -t public"
+    }
+}

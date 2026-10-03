@@ -1,0 +1,1 @@
+ALTER TABLE siswa ADD COLUMN kelurahan VARCHAR(100) NULL AFTER kecamatan;
